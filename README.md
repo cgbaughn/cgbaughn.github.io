@@ -4,31 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Resume</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 20px;
-        }
-        h1, h2 {
-            color: #333;
-        }
-        .section {
-            margin-bottom: 30px;
-        }
-        .job-title {
-            font-weight: bold;
-        }
-        .job-details {
-            margin-left: 20px;
-        }
-        .date {
-            font-style: italic;
-        }
-        .bullet-points {
-            list-style-type: square;
-            margin-left: 20px;
-        }
-    </style>
+  
 </head>
 <body>
     <h1>Resume</h1>
