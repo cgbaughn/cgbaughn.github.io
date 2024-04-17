@@ -6,10 +6,10 @@
 <div style='margin-top:0in;margin-right:0in;margin-bottom:10.0pt;margin-left:0in;line-height:115%;font-size:15px;font-family:"Calibri",sans-serif;border:none;border-bottom:solid gray 1.0pt;padding:0in 0in 1.0pt 0in;'>
     <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;border:none;padding:0in;'><strong><span style="font-size:16px;">EXPERIENCE</span></strong></p>
 </div>
-<p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><br><strong><span style="font-size:16px;">Windows System Administrator - <em>Full Time</em></span></strong> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; January 2023 &ndash; Current</p>
+<p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><br><strong><span style="font-size:16px;">Windows System Administrator</span></strong> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; January 2023 &ndash; Current</p>
 <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;line-height:normal;font-size:15px;font-family:"Calibri",sans-serif;'><strong>The George Washington University,&nbsp;</strong>Remote</p>
 <ul style="list-style-type: disc;">
-    <li>Not filling this bit out! The work is incredible, exciting and I thorughly enjoy what I get to do.</li>
+    <li>Not filling this bit out! The work is incredible, exciting and I thoroughly enjoy what I get to do.</li>
 
 </ul>
 
